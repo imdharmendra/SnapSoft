@@ -45,7 +45,10 @@ react-blog/
    ```bash
    git clone https://github.com/your-username/react-blog.git
    cd react-blog
+   
 npm install
+
 npm start
+
 Open your browser
 Visit http://localhost:3000 to view the blog.
